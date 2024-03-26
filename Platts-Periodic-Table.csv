@@ -1,0 +1,135 @@
+Region,Country,Grade,Sulfur,Gravity,Production,Benchmark
+AF,Algeria,Algerian Condensate,0,68.6,220,
+AF,Algeria,Saharan Blend,0.1,43.2,860,
+AF,Angola,Gindungo,0.56,33,33,
+AF,Angola,Hungo,0.6,30,40,WAF
+AF,Angola,Saturno,0.81,26,60,
+AF,Angola,Plutonio,0.36,33,62,
+AF,Angola,Cabinda,0.12,32.6,71,WAF
+AF,Angola,Pazflor,0.4,25,80,WAF
+AF,Angola,Girassol,0.35,30,85,WAF
+AF,Angola,Nemba,0.28,37,90,WAF
+AF,Angola,CLOV,0.26,33,100,
+AF,Angola,Dalia,0.48,24,114,
+AF,Angola,Mostardo,0.93,28,120,
+AF,Congo,Coco,0.14,31,23,
+AF,Congo,NKossa,0.04,42,70,
+AF,Congo,Djeno,0.5,26,210,WAF
+AF,Egypt,Suez,1.64,30,120,
+AF,Egypt,Ras Gharib,2.9,26,140,
+AF,Equatorial Guinea,Alba Condensate,0.13,47,16,
+AF,Equatorial Guinea,Zafiro,0.25,30,40,
+AF,Gabon,Rabi Light,0.14,33,25,
+AF,Gabon,Mandji,0.92,31,30,
+AF,Gabon,Oguendjo,0.75,35.6,40,
+AF,Ghana,Jubilee,0.3,37,83,WAF
+AF,Guyana,Liza,0.58,32,110,
+AF,Libya,Al Jurf,1.84,30,25,
+AF,Libya,Es Sider,0.38,36,300,
+AF,Libya,El Sharara,0.08,42.6,320,
+AF,Nigeria,Usan,0.27,29,45,
+AF,Nigeria,Brass River,0.13,36.6,57,WAF
+AF,Nigeria,Erha,0.17,35.4,68,WAF
+AF,Nigeria,Akpo,0.07,46.7,80,WAF
+AF,Nigeria,Bonga,0.25,30,100,WAF
+AF,Nigeria,Agbami,0.04,48,109,WAF
+AF,Nigeria,Bonny Light,0.15,35,130,WAF
+AF,Nigeria,Egina,0.2,27,135,WAF
+AF,Nigeria,Escravos,0.18,34,138,
+AF,Nigeria,Qua Iboe,0.1,38,160,WAF
+AF,Nigeria,Forcados,0.22,31,180,WAF
+AF,South Sudan,Nile,0.06,34,24,
+AF,South Sudan,Dar,0.12,25,124,
+APAC,Australia,Cossack,0.04,48,15,
+APAC,Australia,White Rose,0.31,31,15,
+APAC,Australia,Vincent,0.15,19,35,
+APAC,Australia,Van Gogh,0.04,17,50,
+APAC,Australia,NWS,0,63,100,
+APAC,Brunei,Champion,0.13,27,34,
+APAC,Brunei,Seria,0.05,40,44,
+APAC,China,Bozhong,0.3,17,40,
+APAC,China,Liaohe,0.9,22,190,
+APAC,China,Qinghuangdao,0.3,17,198,
+APAC,China,Shengli,0.84,24,490,
+APAC,China,Daqing,0.11,32,700,
+APAC,India,Bombay High,0.17,39.3,250,
+APAC,Indonesia,Minas,0.1,33,140,
+APAC,Indonesia,Banyu,0.3,32,170,
+APAC,Malaysia,Terrengganu,0,73.1,15,
+APAC,Malaysia,Tapis,0.04,43,15,
+APAC,Malaysia,Dulang,0.08,38,30,
+APAC,Vietnam,Bach Ho,0.1,35.4,180,
+CIS,Azerbaijan,Azeri Light,0.17,35.3,374,
+CIS,Kazakhstan,Tengiz,0.51,46.4,620,
+CIS,Kazakhstan,CPC,0.54,44.5,1000,
+CIS,Russia,Siberian Light,0.57,34.8,400,
+CIS,Russia,East Siberia ESPO,0.55,35,900,
+CIS,Russia,Urals,1.7,31.7,2700,Urals
+CIS,Turkmenistan,Dragon,0.35,33,140,
+EU,Norway,Aasgard Blend,0.16,50.5,45,
+EU,Norway,Aasgard Blend,0.16,50.5,45,
+EU,Norway,Heidrun,0.53,24,60,
+EU,Norway,Oseberg,0.2,40,120,Dated Brent
+EU,Norway,Ekofisk,0.19,38.5,187,Dated Brent
+EU,Norway,Troll,0.15,37,220,Dated Brent
+EU,Norway,Grane,0.6,31,235,
+EU,Norway,Sverdrup,0.81,29,400,
+EU,UK,Captain,0.8,19,20,
+EU,UK,Kraken,0.7,14,25,
+EU,UK,Clair,0.5,23,60,
+EU,UK,Forties,0.54,37.3,250,Dated Brent
+ME,Bahrain,Banoco,2.04,31,193,
+ME,Iran,Lavan,1.67,35.4,22,
+ME,Iran,Soroosh,3.9,19,30,
+ME,Iran,Iranian Heavy,2.24,30,500,
+ME,Iran,South Pars Condensate,0.26,58.4,590,
+ME,Iran,Iranian Light,1.46,33.6,1500,
+ME,Iraq,Kirkuk,2.24,34.2,180,
+ME,Iraq,Basrah Heavy,4.05,24,1100,
+ME,Iraq,Basrah Medium,3,28,1900,
+ME,Kuwait,Kuwait Export Crude,2.6,30.5,2500,
+ME,Oman,Oman Export Blend,1.29,33.2,849,Oman
+ME,Qatar,Qatar Land,1.22,41.2,171,
+ME,Qatar,Al Shaheen,2.4,28,214,Dubai
+ME,Qatar,Qatari LSC,0.26,57,900,
+ME,Saudi Arabia,Arabian Super Light,0.04,42,100,
+ME,Saudi Arabia,Arab Medium,2.54,30.9,1254,
+ME,Saudi Arabia,Arab Extra Light,1.07,39.7,1651,
+ME,Saudi Arabia,Arab Heavy,2.75,29,2012,
+ME,Saudi Arabia,Arab Light,1.96,33.3,5422,
+ME,UAE,Dubai,2.13,30,45,Dubai
+ME,UAE,Umm Lulu,0.7,39.2,143,
+ME,UAE,Abu Dhabi Condensate,0.11,58.4,372,
+ME,UAE,Upper Zakum,1.84,33.9,500,Dubai
+ME,UAE,Das,1.14,38.8,850,
+ME,UAE,Murban,0.74,40.5,1500,Dubai
+ME,Yemen,Masila,0.6,32,20,
+SA,Argentina,Escalante,0.2,24,83,
+SA,Argentina,Canadon Seco,0.2,26,140,
+SA,Brazil,Jubarte,0.4,25,100,
+SA,Brazil,Roncador Heavy,0.68,20,120,
+SA,Brazil,Marlim,0.75,20,180,
+SA,Brazil,Tupi,0.32,31,900,
+SA,Colombia,Castilla,1.83,18,94,
+SA,Colombia,Rubiales,1.33,13,169,
+SA,Colombia,Vasconia,0.9,25,350,
+SA,Ecuador,Napo,2.3,17,200,
+SA,Ecuador,Oriente,1.5,23,210,
+SA,Peru,Loreto,1,19,40,
+SA,Trinidad & Tobago,Galoeta,0.23,36,15,
+SA,Venezuela,Mesa 30,1,30,150,
+SA,Venezuela,Merey 16,3.4,16,330,
+NAM,Canada,Hibernia,0.56,34,77,
+NAM,Canada,Cold Lake,3.7,22,146,
+NAM,Canada,West Canadian Select,3.6,22,2000,
+NAM,Mexico,Olmeca,0.82,38.5,153,
+NAM,Mexico,Maya,3.4,21.5,900,
+NAM,USA,Mississippi,0.7,33,30,
+NAM,USA,Poseidon,1.74,30,65,
+NAM,USA,Thunder Horse,0.7,34,125,
+NAM,USA,Light Louisiana Sweet,0.4,38.5,200,
+NAM,USA,Mars,1.9,30,300,
+NAM,USA,Alaska North Slope,0.96,32.1,380,
+NAM,USA,Eagle Ford Crude,0.2,45,1000,
+NAM,USA,Bakken,0.09,43.3,1100,
+NAM,USA,WTI Midland,0.2,42,2000,AGS
