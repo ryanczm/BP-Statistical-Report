@@ -2,13 +2,13 @@ Region,Country,Grade,Sulfur,Gravity,Production,Benchmark
 AF,Algeria,Algerian Condensate,0,68.6,220,
 AF,Algeria,Saharan Blend,0.1,43.2,860,
 AF,Angola,Gindungo,0.56,33,33,
-AF,Angola,Hungo,0.6,30,40,WAF
+AF,Angola,Hungo,0.6,30,40,
 AF,Angola,Saturno,0.81,26,60,
 AF,Angola,Plutonio,0.36,33,62,
-AF,Angola,Cabinda,0.12,32.6,71,WAF
+AF,Angola,Cabinda,0.12,32.6,71,
 AF,Angola,Pazflor,0.4,25,80,WAF
 AF,Angola,Girassol,0.35,30,85,WAF
-AF,Angola,Nemba,0.28,37,90,WAF
+AF,Angola,Nemba,0.28,37,90,
 AF,Angola,CLOV,0.26,33,100,
 AF,Angola,Dalia,0.48,24,114,
 AF,Angola,Mostardo,0.93,28,120,
@@ -22,19 +22,19 @@ AF,Equatorial Guinea,Zafiro,0.25,30,40,
 AF,Gabon,Rabi Light,0.14,33,25,
 AF,Gabon,Mandji,0.92,31,30,
 AF,Gabon,Oguendjo,0.75,35.6,40,
-AF,Ghana,Jubilee,0.3,37,83,WAF
+AF,Ghana,Jubilee,0.3,37,83,
 AF,Guyana,Liza,0.58,32,110,
 AF,Libya,Al Jurf,1.84,30,25,
 AF,Libya,Es Sider,0.38,36,300,
 AF,Libya,El Sharara,0.08,42.6,320,
 AF,Nigeria,Usan,0.27,29,45,
 AF,Nigeria,Brass River,0.13,36.6,57,WAF
-AF,Nigeria,Erha,0.17,35.4,68,WAF
-AF,Nigeria,Akpo,0.07,46.7,80,WAF
-AF,Nigeria,Bonga,0.25,30,100,WAF
-AF,Nigeria,Agbami,0.04,48,109,WAF
+AF,Nigeria,Erha,0.17,35.4,68,
+AF,Nigeria,Akpo,0.07,46.7,80,
+AF,Nigeria,Bonga,0.25,30,100,
+AF,Nigeria,Agbami,0.04,48,109,
 AF,Nigeria,Bonny Light,0.15,35,130,WAF
-AF,Nigeria,Egina,0.2,27,135,WAF
+AF,Nigeria,Egina,0.2,27,135,
 AF,Nigeria,Escravos,0.18,34,138,
 AF,Nigeria,Qua Iboe,0.1,38,160,WAF
 AF,Nigeria,Forcados,0.22,31,180,WAF
