@@ -1,6 +1,10 @@
 # BP Statistical Review for World Energy Report
 
+Article and writeup: https://analytic-musings.com/2024/04/01/BP-statistical-review/
+
 Objectives - demonstrate the understanding and learn these areas by analyzing the data in this report. Report can be downloaded from BP by Googling. The excel spreadsheet link is [here](https://www.reddit.com/r/energy/comments/172x9jf/can_someone_help_me_find_bp_excel_workbook_of/). I downloaded it and manually cleaned the excel files so they can be analyzed in Pandas. The code and charts is in `oil` and `gas` respectively. 
+
+
 
 ----
 * Refinery technicals - Gary book
